@@ -1,1 +1,1 @@
-﻿# trapezodal-rule
+﻿# trapezoidal-rule
